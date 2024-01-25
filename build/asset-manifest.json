@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hohyenho/build.git/static/css/main.5635b42f.css",
+    "main.js": "/hohyenho/build.git/static/js/main.055d92af.js",
+    "static/media/port01.jpg": "/hohyenho/build.git/static/media/port01.58c468bcf575dbdb761f.jpg",
+    "static/media/about.jpg": "/hohyenho/build.git/static/media/about.ccef2d53bef839fdfc07.jpg",
+    "static/media/port02.jpg": "/hohyenho/build.git/static/media/port02.226dcfe91856c32f7549.jpg",
+    "static/media/port03.jpg": "/hohyenho/build.git/static/media/port03.d39a0d77fcbc8368a8f5.jpg",
+    "index.html": "/hohyenho/build.git/index.html",
+    "main.5635b42f.css.map": "/hohyenho/build.git/static/css/main.5635b42f.css.map",
+    "main.055d92af.js.map": "/hohyenho/build.git/static/js/main.055d92af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5635b42f.css",
+    "static/js/main.055d92af.js"
+  ]
+}
